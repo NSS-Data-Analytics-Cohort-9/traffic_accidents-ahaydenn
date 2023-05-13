@@ -16,7 +16,7 @@ Use formulas to answer each question. Unless otherwise stated, fill in your answ
 2. What are the earliest and latest records that appear in this dataset?
 
 3. a. Create a new column to the right of the "Number of Motor Vehicles" column called "Single or Multiple". This column should contain "Single" if the number of vehicles is 1 and "Multiple" if it involved more than one vehicle.  
-b. Are there any rows that involved zero vehicles? How many? Make sure that your formula accounts for these cases.  
+b. Are there any rows that involved zero vehicles? How many? Make sure that your formula accounts for these cases
 c. Investigate the rows that have zero vehicles using the FILTER function in the "Zero Car Crashes" sheet. What do you find?  
 d. What percentage of crashes are single-car?
 
